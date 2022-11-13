@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=StaffHire
+comment0.text=\r\n\ A\ class\ StaffHire\ is\ created\ and\ parameters\ vacancynumber,\ designation\ and\ jobtype\ are\ used.\r\n\ Accessor\ and\ Mutators\ methods\ i.e.\ getters\ asnd\ setters\ are\ used\ to\ retrive\ and\ update\ values.\r\n\ @author\ (Bisesh\ Shrestha)\r\n\ @version\ (2020/1/4)\r\n
+comment1.params=vacancynumber\ designation\ jobtype
+comment1.target=StaffHire(int,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=int\ getvacancynumber()
+comment3.params=
+comment3.target=java.lang.String\ getdesignation()
+comment4.params=
+comment4.target=java.lang.String\ getjobtype()
+comment5.params=vacancynumber
+comment5.target=void\ setvacancynumber(int)
+comment6.params=designation
+comment6.target=void\ setdesignation(java.lang.String)
+comment7.params=jobtype
+comment7.target=void\ setjobtype(java.lang.String)
+comment8.params=
+comment8.target=void\ display()
+comment8.text=\ \r\n\ \ \ \ A\ method\ display\ is\ used\ to\ display\ the\ Vacancynumber,\ Designation\ and\ Jobtype\r\n
+numComments=9
